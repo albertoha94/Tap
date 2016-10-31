@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\tv_fadein.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\tv_fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\fadeout.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\tv_combo_fadein.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\tv_combo_fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\tv_combo_fadeout.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\tv_combo_fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\btn_fadein.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\btn_fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\tv_pulse.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\tv_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\vw_slide.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\vw_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\pulse_fade.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\pulse_fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\btn_movement.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\btn_movement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\tv_pulse_2.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\anim\\tv_pulse_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

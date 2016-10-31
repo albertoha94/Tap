@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- PRESSED -->
+
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/air_force_blue_s_p"/>
+            <corners android:radius="4dp" />
+            <padding android:bottom="10dp"
+                     android:left="10dp"
+                     android:right="10dp"
+                     android:top="10dp" />
+        </shape>
+    </item>
+
+    <!-- REGULAR -->
+
+    <item>
+        <shape>
+           <solid android:color="@color/air_force_blue_s"/>
+           <corners android:radius="4dp"/>
+           <padding android:bottom="10dp"
+                    android:left="10dp"
+                    android:right="10dp"
+                    android:top="10dp"/>
+        </shape>
+    </item>
+</selector>

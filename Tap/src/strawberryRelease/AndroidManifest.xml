@@ -1,0 +1,114 @@
+<manifest
+    package="com.albertoha94.games.Tap"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--Extra permission for appjolt-->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:allowBackup="true"
+        android:theme="@style/apptheme"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher">
+
+        <!-- FABRIC -->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="6b549fa92649d5b366d22dd480b2bfa36725e891" />
+
+        <!-- FACEBOOK -->
+        <provider
+            android:exported="true"
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider1667469936863531" />
+
+        <meta-data
+            android:value="@string/facebook_app_id"
+            android:name="com.facebook.sdk.ApplicationId" />
+
+        <activity
+            android:label="@string/app_name"
+            android:name="com.facebook.FacebookActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation" />
+
+        <!--Admob -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+
+        <!-- Appjolt -->
+        <!-- Appjolt Activity -->
+        <activity
+            android:hardwareAccelerated="false"
+            android:name="com.appjolt.sdk.AppjoltActivity"
+            android:taskAffinity="com.appjolt.sdk.twentyeight"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+
+        <!-- Appjolt Service -->
+        <service
+            android:enabled="true"
+            android:exported="true"
+            android:process=":appjolt"
+            android:name="com.appjolt.sdk.AppjoltService" />
+
+        <!-- Appjolt BOOT receiver -->
+        <receiver
+            android:enabled="true"
+            android:exported="true"
+            android:name="com.appjolt.sdk.AppjoltReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- APP ACTIVITIES -->
+        <activity
+            android:name=".A_Menu"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".A_Game"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_game" />
+        <activity
+            android:name=".A_Statistics"
+            android:parentActivityName=".A_Menu"
+            android:label="@string/title_activity_statistics">
+            <meta-data
+                android:value=".A_Menu"
+                android:name="android.support.PARENT_ACTIVITY" />
+        </activity>
+        <activity
+            android:name=".A_Achievements"
+            android:label="@string/achievements"
+            android:parentActivityName=".A_Menu">
+            <meta-data
+                android:value=".A_Menu"
+                android:name="android.support.PARENT_ACTIVITY" />
+        </activity>
+        <activity
+            android:name=".A_Leaderboards"
+            android:parentActivityName=".A_Menu"
+            android:label="@string/title_activity_leaderboards">
+            <meta-data
+                android:value=".A_Menu"
+                android:name="android.support.PARENT_ACTIVITY" />
+        </activity>
+
+    </application>
+
+</manifest>

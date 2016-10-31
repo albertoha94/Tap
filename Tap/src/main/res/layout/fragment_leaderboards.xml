@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             -Listview adapted to fill the whole parent and to center the items.
+-->
+
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@+id/llv_leaderboards"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <ListView
+        android:clickable="false"
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@android:id/empty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             -Modified so it can incorporate the new style Button Color.
+    *16/Mar/16:             -Re-added the layout width, height attributes on the buttons.
+                            -Added a margin property to the buttons.
+                            -Removed the Button Color.
+                            -Edited the cancel button so it looks like a dialog button.
+-->
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/b_c1"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c2"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c3"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c4"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c5"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/b_c6"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c7"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c8"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c9"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+        <Button
+            android:id="@+id/b_c10"
+            android:layout_width="@dimen/b_cdialog_size"
+            android:layout_height="@dimen/b_cdialog_size"
+            android:layout_margin="@dimen/b_cdialog_margin" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/b_exit"
+            android:background="@null"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@android:string/cancel" />
+    </LinearLayout>
+
+</LinearLayout>

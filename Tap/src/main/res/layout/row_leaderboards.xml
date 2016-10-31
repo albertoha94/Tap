@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             -Modified the value of some of the views so they use a dimen property.
+                            -Erased some attributes so they view remain in the same position.
+-->
+
+<LinearLayout
+    android:orientation="horizontal"
+    android:padding="@dimen/rl_margin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:text="N."
+        android:gravity="center"
+        android:layout_weight="0.1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_place_leaderboards"
+        android:textSize="@dimen/tv_leaders_textsize"
+        android:layout_marginLeft="@dimen/tv_leader_marginleft" />
+
+    <TextView
+        android:text="1000000"
+        android:gravity="center"
+        android:layout_weight="0.4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_score_leaderboards"
+        android:textSize="@dimen/tv_leaders_textsize"
+        android:layout_marginLeft="@dimen/leaders_margin" />
+
+    <View
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/v_color_leaderboards"
+        android:layout_width="@dimen/v_leaders_size"
+        android:layout_marginRight="@dimen/rl_margin"
+        android:layout_height="@dimen/v_leaders_size"
+        android:layout_marginLeft="@dimen/leaders_margin" />
+
+    <TextView
+        android:gravity="center"
+        android:text="Difficulty"
+        android:layout_weight="0.2"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_difficulty_leaderboards"
+        android:textSize="@dimen/tv_leaders_textsize"
+        android:layout_marginRight="@dimen/leaders_margin" />
+
+</LinearLayout>

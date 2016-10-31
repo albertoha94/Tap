@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_turquoise_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_turquoise_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__share_action.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__share_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_turquoise.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_turquoise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__video_play_btn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__video_play_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\dgts__digits_btn_default.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable\\dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_pressed.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_disabled.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_auburn_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_auburn_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_amber_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_amber_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__video_seekbar.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__video_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_grey_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_grey_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__bg_tweet_compact.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__bg_tweet_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__like_action.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__like_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_amethyst.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_amethyst.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__app_info_layout_border.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\drawable\\tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_pressed_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_default.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_amethyst_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_amethyst_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__btn_composer_tweet.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\drawable\\tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__bg_tweet.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__bg_tweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__video_pause_btn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__video_pause_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__install_button_border.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.2\\res\\drawable\\tw__install_button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_bronze_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_bronze_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_awesome.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_awesome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__transparent.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\appcard.png",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\appcard.png"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_awesome_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_awesome_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_amber.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_amber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_amethyst.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_amethyst.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\progress_dark.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable\\progress_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_turquoise.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_turquoise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_cadnium_green.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_cadnium_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_ao.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_ao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_air_force_blue.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_air_force_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_cgreen_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_cgreen_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\dgts__digits_btn_pressed.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable\\dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_auburn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_auburn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_text_color_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_grey.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_ao_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_ao_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_auburn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_auburn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\buttonstandard.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\buttonstandard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__player_overlay.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__player_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_air_force_blue.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_air_force_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__video_replay_btn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__video_replay_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_cgreen.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_cgreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_bronze.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_bronze.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_cadet_grey.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_cadet_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__seekbar_thumb.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.9.0\\res\\drawable\\tw__seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\tw__login_btn_default_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.3\\res\\drawable\\tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_bronze.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_bronze.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_amber.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_amber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.9.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_ao.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_ao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\dgts__digits_btn.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable\\dgts__digits_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\progress_light.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.9.3\\res\\drawable\\progress_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\c_awesome.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\c_awesome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\build\\intermediates\\res\\merged\\chocolate\\debug\\drawable\\b_air_force_blue_s.xml",
+        "source": "C:\\Users\\Albertoha94\\Projects\\StudioProjects\\Tap\\Tap\\src\\main\\res\\drawable\\b_air_force_blue_s.xml"
+    }
+]

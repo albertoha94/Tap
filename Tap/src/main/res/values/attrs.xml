@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             Added the new attribute ButtonColor.
+-->
+
+<resources>
+
+    <attr name="ButtonMenu"
+          format="reference" />
+    <attr name="ButtonGame"
+          format="reference" />
+    <attr name="TextMenu"
+          format="reference" />
+    <attr name="TextTitle"
+          format="reference" />
+    <attr name="TextGame"
+          format="reference" />
+    <attr name="ButtonIcon"
+          format="reference"/>
+    <attr name="ButtonColor"
+        format="reference"/>
+
+</resources>

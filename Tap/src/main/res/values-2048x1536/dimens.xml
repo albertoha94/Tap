@@ -1,0 +1,125 @@
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *17/Mar/16:             -File created.
+                            -Sizes modified: t_menu, b_menu_margin_ip_down, b_menu_margin_left_r,
+                             t_title, t_margin, b_icon_margin, b_icon_size, ib_info_size,
+                             b_animation_size
+-->
+<resources>
+
+    <!--MENU BUTTON-->
+
+    <!--Menu main buttons-->
+        <dimen name="t_menu">50sp</dimen>
+        <dimen name="b_menu_padding">25dp</dimen>
+        <dimen name="b_menu_margin_up_down">20dp</dimen>
+        <dimen name="b_menu_margin_left_r">50dp</dimen>
+    <!-- -->
+    <!--Textview title-->
+        <dimen name="t_margin">80dp</dimen>
+        <dimen name="t_title">70sp</dimen>
+    <!-- -->
+    <!--Image buttons-->
+        <dimen name="b_icon_margin">10dp</dimen>
+        <dimen name="b_icon_padding">15dp</dimen>
+        <dimen name="b_icon_size">80dp</dimen>
+    <!-- -->
+    <!--Information button-->
+        <dimen name="ib_info_size">60dp</dimen>
+    <!-- -->
+        <!--Animation buttons-->
+        <dimen name="b_animation_size">80dp</dimen>
+
+        <!--Difficulty dialog-->
+        <dimen name="tv_title_dif_margin">5dp</dimen>
+        <dimen name="tv_title_dif_tvsize">15sp</dimen>
+        <dimen name="tv_info_dif_tvsize">25sp</dimen>
+
+        <!--Color dialog-->
+        <dimen name="b_cdialog_size">50dp</dimen>
+        <dimen name="b_cdialog_margin">5dp</dimen>
+    <!-- -->
+    <!--GAME-->
+        <!--TEXTVIEW SCORE AND TIMER-->
+        <dimen name="tv_score_timer_textsize">30sp</dimen>
+
+        <!--VIEW BACK AND FILL-->
+        <dimen name="v_height">4dp</dimen>
+        <dimen name="v_margintop_bottom">5dp</dimen>
+
+        <!--BUTTON INDICATOR-->
+        <dimen name="b_game_margin">1dp</dimen>
+
+        <!--Button showPauseDialog-->
+        <dimen name="b_pause_textsize">20sp</dimen>
+
+        <!--Button game size-->
+        <dimen name="b_game_size_dummy">1dp</dimen>         <!--Its just a dummy set in the temporal
+                                                            sizes of the blocks. Their true sizes
+                                                            is set dynamically-->
+
+        <!--Textview ready up-->
+        <dimen name="tv_readyup_textsize">100sp</dimen>
+
+        <!--End game dialog-->
+        <dimen name="b_face_twitter_margin">10dp</dimen>
+
+        <!--Confirm exit title-->
+        <dimen name="tv_title_exconfirm_textsize">10sp</dimen>
+    <!-- -->
+    <!--STATISTICS-->
+        <!--USED IN BOTH HEADER AND STAT-->
+        <dimen name="tv_header_stat_textsize">20sp</dimen>
+
+        <!--ROW STAT-->
+        <dimen name="v_stat_size">20dp</dimen>
+        <dimen name="tv_stat_margin">4dp</dimen>
+        <dimen name="tv_stat_padding">10dp</dimen>
+
+        <!--HEADER ROW-->
+        <dimen name="tv_header_padding">5dp</dimen>
+    <!-- -->
+    <!--ROW ACHIEVEMENT-->
+        <dimen name="tv_achieve_textsize">25sp</dimen>
+        <dimen name="tv_achieve_textsize_desc">15sp</dimen>
+        <dimen name="tv_achieve_margin">10dp</dimen>
+        <dimen name="tv_achieve_marginleft">5dp</dimen>
+        <dimen name="tv_achieve_padding">3dp</dimen>
+    <!-- -->
+    <!--Leaderboards-->
+        <!--ROW LEADERBOARDS-->
+        <dimen name="tv_leaders_textsize">25sp</dimen>
+        <dimen name="v_leaders_size">35dp</dimen>
+        <dimen name="leaders_margin">5dp</dimen>
+        <dimen name="tv_leader_marginleft">15dp</dimen>
+
+        <!--Title strip-->
+        <dimen name="tv_leader_tstrip_textsize">10sp</dimen>
+    <!-- -->
+    <dimen name="t_game">30sp</dimen>
+
+
+
+    <!--ICON-->
+
+
+
+    <!--TITLE-->
+
+
+
+
+
+
+
+    <!--ROW LEADERBOARDS-->
+
+    <dimen name="rl_margin">5dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+</resources>

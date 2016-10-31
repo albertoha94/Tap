@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             File completed.
+-->
+
+<LinearLayout
+    android:gravity="center_vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tv_header"
+        android:textColor="@color/white"
+        android:gravity="center_vertical"
+        android:layout_width="fill_parent"
+        android:background="@color/black_s"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/tv_header_padding"
+        android:textSize="@dimen/tv_header_stat_textsize" />
+
+</LinearLayout>

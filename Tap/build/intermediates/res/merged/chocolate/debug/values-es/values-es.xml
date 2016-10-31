@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GD_ACHIEVEMENT_STATE">
+        <item>GD_ACHIEVEMENT_1</item>
+        <item>GD_ACHIEVEMENT_2</item>
+        <item>GD_ACHIEVEMENT_3</item>
+        <item>GD_ACHIEVEMENT_4</item>
+        <item>GD_ACHIEVEMENT_5</item>
+        <item>GD_ACHIEVEMENT_6</item>
+        <item>GD_ACHIEVEMENT_7</item>
+        <item>GD_ACHIEVEMENT_8</item>
+        <item>GD_ACHIEVEMENT_9</item>
+        <item>GD_ACHIEVEMENT_10</item>
+        <item>GD_ACHIEVEMENT_11</item>
+        <item>GD_ACHIEVEMENT_12</item>
+        <item>GD_ACHIEVEMENT_13</item>
+        <item>GD_ACHIEVEMENT_14</item>
+        <item>GD_ACHIEVEMENT_15</item>
+        <item>GD_ACHIEVEMENT_16</item>
+        <item>GD_ACHIEVEMENT_17</item>
+        <item>GD_ACHIEVEMENT_18</item>
+        <item>GD_ACHIEVEMENT_19</item>
+        <item>GD_ACHIEVEMENT_20</item>
+        <item>GD_ACHIEVEMENT_21</item>
+        <item>GD_ACHIEVEMENT_22</item>
+        <item>GD_ACHIEVEMENT_23</item>
+        <item>GD_ACHIEVEMENT_24</item>
+        <item>GD_ACHIEVEMENT_25</item>
+        <item>GD_ACHIEVEMENT_26</item>
+        <item>GD_ACHIEVEMENT_27</item>
+        <item>GD_ACHIEVEMENT_28</item>
+        <item>GD_ACHIEVEMENT_29</item>
+        <item>GD_ACHIEVEMENT_30</item>
+        <item>GD_ACHIEVEMENT_31</item>
+        <item>GD_ACHIEVEMENT_32</item>
+        <item>GD_ACHIEVEMENT_33</item>
+        <item>GD_ACHIEVEMENT_34</item>
+    </string-array>
+    <string-array name="achievement_desc">
+        <item>Completa 100 juegos</item>
+        <item>Completa 500 juegos</item>
+        <item>Completa 1000 juegos</item>
+        <item>Completa 2000 juegos</item>
+        <item>Toca un bloque rojo 100 veces</item>
+        <item>Toca un bloque rojo 500 veces</item>
+        <item>Toca un bloque rojo 1000 veces</item>
+        <item>Toca un bloque azul 100 veces</item>
+        <item>Toca un bloque azul 500 veces</item>
+        <item>Toca un bloque azul 1000 veces</item>
+        <item>Toca un bloque naranja 100 veces</item>
+        <item>Toca un bloque naranja 500 veces</item>
+        <item>Toca un bloque naranja 1000 veces</item>
+        <item>Toca un bloque violeta 100 veces</item>
+        <item>Toca un bloque violeta 500 veces</item>
+        <item>Toca un bloque violeta 1000 veces</item>
+        <item>Toca un bloque verde 100 veces</item>
+        <item>Toca un bloque verde 500 veces</item>
+        <item>Toca un bloque verde 1000 veces</item>
+        <item>Toca un bloque cyan 100 veces</item>
+        <item>Toca un bloque cyan 500 veces</item>
+        <item>Toca un bloque cyan 1000 veces</item>
+        <item>Toca un bloque bronce 100 veces</item>
+        <item>Toca un bloque bronce 500 veces</item>
+        <item>Toca un bloque bronce 1000 veces</item>
+        <item>Toca un bloque gris 100 veces</item>
+        <item>Toca un bloque gris 500 veces</item>
+        <item>Toca un bloque gris 1000 veces</item>
+        <item>Toca un bloque verde cadmio 100 veces</item>
+        <item>Toca un bloque verde cadmio 500 veces</item>
+        <item>Toca un bloque verde cadmio 1000 veces</item>
+        <item>Toca un bloque rosa 100 veces</item>
+        <item>Toca un bloque rosa 500 veces</item>
+        <item>Toca un bloque rosa 1000 veces</item>
+    </string-array>
+    <string-array name="achievement_name">
+
+        <item>Comencemos</item>
+        <item>Vas mejorando</item>
+        <item>Toque Casual</item>
+        <item>Toque maestro</item>
+
+        <item>Rojo palido</item>
+        <item>Rojo claro</item>
+        <item>Auburn</item>
+
+        <item>Azul palido</item>
+        <item>Azul claro</item>
+        <item>Fuerza aérea azul</item>
+
+        <item>Naranja palido</item>
+        <item>Naranja claro</item>
+        <item>Ambar</item>
+
+        <item>Violeta Palido</item>
+        <item>Violeta claro</item>
+        <item>Ametisto</item>
+
+        <item>Verde palido</item>
+        <item>Verde claro</item>
+        <item>Ao</item>
+
+        <item>Cyan palido</item>
+        <item>Cyan claro</item>
+        <item>Turquesa</item>
+
+        <item>Bronce palido</item>
+        <item>Bronce claro</item>
+        <item>Bronce</item>
+
+        <item>Gris palido</item>
+        <item>Gris claro</item>
+        <item>Gris cadete</item>
+
+        <item>Verde cadmio palido</item>
+        <item>Verde cadmio claro</item>
+        <item>Verde cadmio</item>
+
+        <item>Rosa palido</item>
+        <item>Rosa claro</item>
+        <item>Increible</item>
+
+    </string-array>
+    <integer-array name="achievement_values_max">
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+    </integer-array>
+    <string-array name="difficulty_s">
+        <item>Fácil</item>
+        <item>Medio</item>
+        <item>Difícil</item>
+        <item>Experto</item>
+    </string-array>
+    <string-array name="leaders_titles">
+        <item>1 minuto</item>
+        <item>25 toques</item>
+        <item>1 minuto(Un color)</item>
+        <item>25 toques(Un color)</item>
+    </string-array>
+    <string-array name="mode_s">
+        <item>1 minuto</item>
+        <item>25 toques</item>
+    </string-array>
+    <integer-array name="pph">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+    <string-array name="stat_names">
+    <item name="general">General</item>
+    <item name="total_games">Juegos totales</item>
+    <item name="perfect_games">Juegos perfectos</item>
+    <item name="longest_streak">Cadena mas larga</item>
+    <item name="game_modes">Modos de juego</item>
+    <item name="min">1 minuto</item>
+    <item name="taps">25 toques</item>
+    <item name="cmin">1 minuto(Un color)</item>
+    <item name="ctap">25 toques(Un color)</item>
+    <item name="blocks">Bloques</item>
+    <item name="total">Total</item>
+    <item name="auburn">Auburn</item>
+    <item name="air_force_blue">Fuerza aérea azul</item>
+    <item name="amber">Ambar</item>
+    <item name="amethyst">Ametisto</item>
+    <item name="ao">Ao</item>
+    <item name="turquoise">Turquesa</item>
+    <item name="bronze">Bronce</item>
+    <item name="cadet_grey">Gris cadete</item>
+    <item name="cadnium_green">Verde cadmio</item>
+    <item name="awesome">Increible</item>
+    </string-array>
+    <plurals name="tw__time_hours">
+        <item quantity="one">1 h</item>
+        <item quantity="other">%dh</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1 m</item>
+        <item quantity="other">%dm</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">1 s</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <string name="Best_score">Mejor puntuacion:</string>
+    <string name="Best_time">Mejor tiempo:</string>
+    <string name="Continue">Continuar</string>
+    <string name="Exit_game_confirm">¿Deseas terminar la partida?</string>
+    <string name="Game_finished">¡Juego terminado!</string>
+    <string name="Go">Ya!</string>
+    <string name="Pause">Pausa</string>
+    <string name="QuitGame">Finalizar juego</string>
+    <string name="Score">Puntuacion</string>
+    <string name="Your_score">Tu puntuacion:</string>
+    <string name="Your_time">Tu Tiempo:</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="achievement">Logro</string>
+    <string name="achievements">Logros</string>
+    <string name="com_facebook_device_auth_instructions">Visita %@ en tu smartphone u ordenador e introduce este código:</string>
+    <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
+    <string name="com_facebook_internet_permission_error_message">El inicio de sesión a la web requiere permiso de conexión a internet</string>
+    <string name="com_facebook_internet_permission_error_title">Error AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Te gusta</string>
+    <string name="com_facebook_like_button_not_liked">Me gusta</string>
+    <string name="com_facebook_loading">Cargando…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string name="com_facebook_loginview_log_in_button">Inicio de sesión</string>
+    <string name="com_facebook_loginview_log_in_button_long">Iniciar sesión con Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Salir</string>
+    <string name="com_facebook_loginview_log_out_button">Salir</string>
+    <string name="com_facebook_loginview_logged_in_as">Sesión iniciada como: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Sesión iniciada con Facebook</string>
+    <string name="com_facebook_send_button_text">Enviar</string>
+    <string name="com_facebook_share_button_text">Compartir</string>
+    <string name="com_facebook_tooltip_default">¡Nuevo! Tú tienes el control: elige qué información quieres compartir con las aplicaciones.</string>
+    <string name="dgts__call_me">Llámame</string>
+    <string name="dgts__calling">Llamando…</string>
+    <string name="dgts__confirmation_code">Código de confirmación</string>
+    <string name="dgts__confirmation_edit_hint">Introducir código de confirmación</string>
+    <string name="dgts__confirmation_error">No se puede confirmar tu número de teléfono</string>
+    <string name="dgts__confirmation_error_alternative">Lo sentimos, estamos teniendo problemas para enviarte un código de confirmación.</string>
+    <string name="dgts__confirmation_expired">Este código ha caducado. Solicitar el reenvío del código de confirmación.</string>
+    <string name="dgts__continue">Continuar</string>
+    <string name="dgts__digits_logo_desc">ícono del logo de digits</string>
+    <string name="dgts__digits_logo_name_desc">nombre del logo de digits</string>
+    <string name="dgts__dismiss">Descartar</string>
+    <string name="dgts__done">Listo</string>
+    <string name="dgts__email_request_edit_hint">Dirección de correo electrónico</string>
+    <string name="dgts__email_request_title">Introducir dirección de correo electrónico</string>
+    <string name="dgts__find_your_friends">Encuentra a tus amigos</string>
+    <string name="dgts__image_header_description">Encabezado de imagen para inicio de sesión</string>
+    <string name="dgts__invalid_email">Correo electrónico no válido. Inténtalo de nuevo.</string>
+    <string name="dgts__login_digits_text">Usar mi número de teléfono</string>
+    <string name="dgts__network_error">Revisa tu red e inténtalo de nuevo.</string>
+    <string name="dgts__not_now">Ahora no</string>
+    <string name="dgts__okay">Aceptar</string>
+    <string name="dgts__phone_number_edit_hint">Tu número</string>
+    <string name="dgts__phone_number_text">Introduce tu número de teléfono</string>
+    <string name="dgts__pin_code_verification_title">Ingresa el código de doble verificación</string>
+    <string name="dgts__resend_confirmation_text">Reenviar código de confirmación</string>
+    <string name="dgts__sending">Enviando…</string>
+    <string name="dgts__success_desc">Icono Éxito</string>
+    <string name="dgts__terms_email_request">Al pulsar %1$sContinuar%1$s, añadirás este correo electrónico a \
+tu cuenta de Digits. Todas las aplicaciones autenticadas en Digits tendrán acceso a esta dirección de correo\
+ electrónico y sus usuarios podrán buscarte por tu correo \
+electrónico. Administra tu cuenta en %2$sDigits.com%3$s.</string>
+    <string name="dgts__terms_text">Al pulsar %1$sContinuar%1$s arriba, %2$sDigits by Twitter%3$s te enviará un mensaje SMS para confirmar \
+tu número de teléfono. Es posible que se apliquen tarifas correspondientes a mensajes y datos.</string>
+    <string name="dgts__terms_text_call_me">Al pulsar %1$sLlámame%1$s arriba, %2$sDigits by Twitter%3$s te llamará para confirmar tu número de teléfono. Es posible que se apliquen tarifas correspondientes a llamadas y datos.</string>
+    <string name="dgts__terms_text_create">Al pulsar %1$sContinuar%1$s arriba, aceptas los %2$sTérminos de servicio%3$s, la %2$sPolítica de privacidad%3$s y la %2$sPolítica de cookies%3$s de Digits by Twitter; asimismo, aceptas que otros usuarios de esta aplicación te puedan buscar por tu número de teléfono o dirección de correo electrónico.</string>
+    <string name="dgts__terms_text_sign_in">Al pulsar %1$sContinuar%1$s arriba, aceptas la actualización de los %2$sTérminos de servicio%3$s, la %2$sPolítica de privacidad%3$s y la %2$sPolítica de cookies%3$s de Digits by Twitter; asimismo, aceptas que otros usuarios de %1$s te puedan buscar por tu número de teléfono o dirección de correo electrónico.</string>
+    <string name="dgts__try_again">Reintentar</string>
+    <string name="dgts__try_again_confirmation">Revisa tu código e inténtalo de nuevo.</string>
+    <string name="dgts__try_again_email">Revisa tu correo electrónico e inténtalo de nuevo</string>
+    <string name="dgts__try_again_phone_number">Revisa tu número e inténtalo de nuevo.</string>
+    <string name="dgts__try_another_phone">Intenta con otro número de teléfono </string>
+    <string name="dgts__unsupported_operator_error">No se pudo enviar un mensaje SMS a este número.</string>
+    <string name="dgts__upload_contacts">Usamos Digits by Twitter para encontrar a amigos tuyos que usen esta aplicación. Cuando pulses \"Aceptar\", subiremos tu libreta de direcciones a Digits by Twitter para ayudarte a encontrar usuarios de %1$s que conozcas o ayudar a otros usuarios de %1$s a encontrarte.</string>
+    <string name="dgts__verification_code">Código de verificación</string>
+    <string name="dgts_pin_code_terms">Ya has establecido un código de doble verificación en digits.com</string>
+    <string name="info">Programación:\n
+                         Alberto Herrera\n
+                        Graficos:\n
+                         Icono de la app por Aya Black\n
+                         Iconos de logros por Aya Black\n
+                         Trophy por Matthew R. Miller de the Noun Project\n
+                         winner por Magicon de the Noun Project\n
+                         Graph por Mister Pixel de the Noun Project\n
+                        Nombre y promoción:\n
+                         Raquel Reyes</string>
+    <string name="info_title">Acerca de</string>
+    <string name="messenger_send_button_text">Enviar</string>
+    <string name="mode_1min">1 minuto</string>
+    <string name="mode_25t">25 toques</string>
+    <string name="mode_scolor">Un color</string>
+    <string name="new_highest_score">¡Nueva puntuación mas alta!</string>
+    <string name="new_highest_time">¡Nuevo tiempo!</string>
+    <string name="nohits">Num. Aciertos:</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="restart">Reiniciar</string>
+    <string name="return_menu">Regresar al menu</string>
+    <string name="select_color">Color</string>
+    <string name="select_dif">Dificultad</string>
+    <string name="select_mode">Modo de juego</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="title_activity_game">Juego</string>
+    <string name="title_activity_leaderboards">Puntuaciones</string>
+    <string name="title_activity_statistics">Estadisticas</string>
+    <string name="tw__allow_btn_txt">Permitir</string>
+    <string name="tw__like_tweet">Darle Me gusta al Tweet</string>
+    <string name="tw__liked_tweet">Deshacer Me gusta</string>
+    <string name="tw__loading_tweet">Cargando Tweet</string>
+    <string name="tw__login_btn_txt">Inicia sesión con Twitter</string>
+    <string name="tw__not_now_btn_txt">Ahora no</string>
+    <string name="tw__relative_date_format_long">d/M/y</string>
+    <string name="tw__relative_date_format_short">d \'de\' MMM</string>
+    <string name="tw__retweeted_by_format">Retwitteado por %1$s</string>
+    <string name="tw__share_content_format">Échale un vistazo al Tweet de \@%1$s\: https://twitter.com/%1$s/status/%2$s</string>
+    <string name="tw__share_email_desc">Consigue actualizaciones e información de %1$s permitiéndole el acceso a tu correo electrónico en tu cuenta de Twitter \@%2$s</string>
+    <string name="tw__share_email_title">Comparte tu dirección de correo electrónico</string>
+    <string name="tw__share_subject_format">Tweet de %1$s (\@%2$s)</string>
+    <string name="tw__share_tweet">Compartir Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="unlocked">desbloqueado</string>
+</resources>

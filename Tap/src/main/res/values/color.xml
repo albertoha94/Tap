@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             Added the twitter background color.
+-->
+
+<resources>
+    <!-- REGULAR BUTTON -->
+    <color name="gray_b">#5a5a5a</color>
+    <color name="black_s">#262626</color>
+    <color name="black_p">#4c4c4c</color>
+
+    <!--VIEW-->
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <!-- RED, AUBURN -->
+
+    <color name="auburn">#a52a2a</color>
+    <color name="auburn_p">#681a1a</color>
+    <color name="auburn_s">#d14a4a</color>
+    <color name="auburn_s_p">#e18787</color>
+
+    <!-- BLUE, AIR FORCE BLUE -->
+
+    <color name="air_force_blue">#5d65a8</color>
+    <color name="air_force_blue_p">#404678</color>
+    <color name="air_force_blue_s">#5d8aa8</color>
+    <color name="air_force_blue_s_p">#8faec3</color>
+
+    <!-- YELLOW, AMBER -->
+
+    <color name="amber">#ffbf00</color>
+    <color name="amber_p">#b38600</color>
+    <color name="amber_s">#ffd24d</color>
+    <color name="amber_s_p">#ffe59a</color>
+
+    <!--PURPLE, AMETHYST -->
+
+    <color name="amethyst">#9966cc</color>
+    <color name="amethyst_p">#7339ac</color>
+    <color name="amethyst_s">#bf9fdf</color>
+    <color name="amethyst_s_p">#e5d8f2</color>
+
+
+    <!-- GREEN, AO -->
+
+    <color name="ao">#008000</color>
+    <color name="ao_s">#00cd00</color>
+    <color name="ao_p">#003400</color>
+    <color name="ao_s_p">#1bff1b</color>
+
+    <!--PINK, AWESOME-->
+
+    <color name="awesome">#ff2052</color>
+    <color name="awesome_s">#ff6d8d</color>
+    <color name="awesome_p">#d3002f</color>
+    <color name="awesome_s_p">#ffbac9</color>
+
+    <!--TURQUOISE-->
+
+    <color name="turquoise">#08e8de</color>
+    <color name="turquoise_s">#44f9f0</color>
+    <color name="turquoise_p">#059e97</color>
+    <color name="turquoise_s_p">#8efbf6</color>
+
+    <!--BRONZE-->
+
+    <color name="bronze">#cd7f32</color>
+    <color name="bronze_s">#dca570</color>
+    <color name="bronze_p">#905923</color>
+    <color name="bronze_s_p">#ebccad</color>
+
+    <!--CADET GREY-->
+
+    <color name="grey">#91a3b0</color>
+    <color name="grey_s">#bec8d0</color>
+    <color name="grey_p">#667d8e</color>
+    <color name="grey_s_p">#eaeef0</color>
+
+    <!--CADNIUM GREEN-->
+
+    <color name="cgreen">#006b3c</color>
+    <color name="cgreen_s">#00b867</color>
+    <color name="cgreen_p">#001f11</color>
+    <color name="cgreen_s_p">#05ff91</color>
+
+    <!--Twitter background color-->
+    <color name="twitter_back">#55acee</color>
+
+</resources>

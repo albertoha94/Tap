@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             -Fixed the size of the layout so it occupies the whole space.
+                            -Added background color to the twitter background.
+-->
+
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.facebook.share.widget.ShareButton
+        android:text="Facebook"
+        android:id="@+id/b_face"
+        android:layout_weight="0.5"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/b_face_twitter_margin" />
+
+    <Button
+        android:text="Twitter"
+        android:id="@+id/b_twitter"
+        android:layout_weight="0.5"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/twitter_back"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/b_face_twitter_margin" />
+
+</LinearLayout>

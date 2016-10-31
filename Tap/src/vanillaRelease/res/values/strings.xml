@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *19/Mar/16:             -File created, updated so it has the other strings plus the new ones.
+                            -Renamed mode_cbind to mode_scolor.
+                            -Added ad_banner.
+-->
+
+<resources>
+
+    <!--Menu Activity-->
+    <!-- TITLE -->
+        <string name="app_name" translatable="false">Color\nSplash</string>
+
+    <!-- MENU -->
+        <string name="mode_25t">25 taps</string>
+        <string name="mode_1min">1 minute</string>
+        <string name="mode_scolor">Single color</string>
+        <string name="ad_banner">ca-app-pub-1381658995880525/7262584696</string>
+        <string name="facebook_app_id" translatable="false">1667469936863531</string>
+
+    <!-- DIFFICULTY -->
+        <string name="select_dif">Difficulty</string>
+
+    <!--Single color-->
+        <string name="select_color">Color</string>
+        <string name="select_mode">Game mode</string>
+
+    <!--Achievements-->
+        <string name="unlocked">unlocked</string>
+        <string name="achievement">Achievement</string>
+
+    <!--Info-->
+        <string name="info_title">About</string>
+        <string name="info">Programming:\n
+                             Alberto Herrera\n
+                            Graphics:\n
+                             App icon by Aya Black\n
+                             Achievements icons by Aya Black\n
+                             Trophy by Matthew R. Miller from the Noun Project\n
+                             winner by Magicon from the Noun Project\n
+                             Graph by Mister Pixel from the Noun Project\n
+                            Name and Promotion:\n
+                             Raquel Reyes</string>
+    <!-- -->
+    <!-- Game activity -->
+    <!--General-->
+        <string name="Go">Go!</string>
+        <string name="Score">Score</string>
+        <string name="Pause">Pause</string>
+        <string name="restart">Restart</string>
+        <string name="nohits">No. hits:</string>
+        <string name="Continue">Continue</string>
+        <string name="QuitGame">Quit game</string>
+        <string name="play_again">Play again</string>
+        <string name="title_activity_game">Game</string>
+        <string name="Game_finished">Game finished!</string>
+        <string name="return_menu">Return to the menu</string>
+        <string name="Exit_game_confirm">End the game?</string>
+
+    <!--Ad activity-->
+        <string name="title_activity_a__ad">Ads</string>
+        <string name="start_level">Level 1</string>
+        <string name="next_level">Next Level</string>
+        <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+        <string name="interstitial_ad_unit_id">ca-app-pub-1381658995880525/1017701896</string>
+
+    <!--1 minute exclusives-->
+        <string name="Your_score">Your score:</string>
+        <string name="Best_score">Best score:</string>
+        <string name="new_highest_score">New highest score!</string>
+
+    <!--25 taps exclusive-->
+        <string name="Your_time">Your time:</string>
+        <string name="Best_time">Best time:</string>
+        <string name="new_highest_time">New highest time!</string>
+    <!-- -->
+    <!--ACHIEVEMENTS-->
+    <string name="achievements">Achievements</string>
+    <!-- -->
+    <!--Statistics-->
+    <string name="title_activity_statistics">Statistics</string>
+    <!-- -->
+    <!--LEADERBOARDS-->
+    <string name="title_activity_leaderboards">Leaderboards</string>
+    <!-- -->
+
+</resources>

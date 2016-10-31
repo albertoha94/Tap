@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             File formatted.
+-->
+
+<RelativeLayout
+    tools:context=".A_Game"
+    android:id="@+id/ReLa_Main"
+    tools:ignore="MergeRootFrame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:text="0"
+        style="?attr/TextGame"
+        tools:ignore="HardcodedText"
+        android:id="@+id/tv_timer"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:drawableStart="@drawable/ic_clock"
+        android:textSize="@dimen/tv_score_timer_textsize" />
+
+    <TextView
+        android:text="0"
+        android:id="@+id/tv_score"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_timer"
+        android:layout_alignStart="@+id/tv_timer"
+        android:textSize="@dimen/tv_score_timer_textsize" />
+
+    <View
+        android:id="@+id/v_separator"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tv_score"
+        android:layout_height="@dimen/v_height"
+        android:layout_marginTop="@dimen/v_margintop_bottom"
+        android:layout_marginBottom="@dimen/v_margintop_bottom" />
+
+    <View
+        android:id="@+id/v_fill"
+        android:background="@color/ao"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tv_score"
+        android:layout_height="@dimen/v_height"
+        android:layout_marginTop="@dimen/v_margintop_bottom"
+        android:layout_marginBottom="@dimen/v_margintop_bottom" />
+
+    <LinearLayout
+        android:visibility="invisible"
+        android:layout_gravity="center"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:id="@+id/llh_maincontainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/v_separator">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/llv_ren1"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap1"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap7"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap13"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap19"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap25"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap31"
+                android:onClick="checkTap" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/llv_ren2"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap2"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap8"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap14"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap20"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap26"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap32"
+                android:onClick="checkTap" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/llv_ren3"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap3"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap9"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap15"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap21"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap27"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap33"
+                android:onClick="checkTap" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/llv_ren4"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap4"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap10"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap16"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap22"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap28"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap34"
+                android:onClick="checkTap" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/llv_ren5"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap5"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap11"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap17"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap23"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap29"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap35"
+                android:onClick="checkTap" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/llv_ren6"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap6"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap12"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap18"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap24"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap30"
+                android:onClick="checkTap" />
+
+            <Button
+                style="?attr/ButtonGame"
+                android:id="@+id/b_tap36"
+                android:onClick="checkTap" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:clickable="false"
+        android:id="@+id/b_indicator"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/v_separator"
+        android:background="@drawable/buttonstandard"
+        android:layout_marginTop="@dimen/b_game_margin"
+        android:layout_marginBottom="@dimen/b_game_margin" />
+
+    <Button
+        android:text="II"
+        style="?attr/TextGame"
+        android:textStyle="bold"
+        android:id="@+id/b_pause"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="@dimen/b_pause_textsize"
+        android:layout_margin="@dimen/b_game_margin"
+        android:background="@drawable/buttonstandard" />
+
+    <TextView
+        android:gravity="center"
+        android:visibility="gone"
+        android:id="@+id/tv_readyup"
+        android:textSize="@dimen/tv_readyup_textsize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:text="Combo 5"
+        android:gravity="center"
+        android:id="@+id/tv_combo1"
+        android:visibility="invisible"
+        android:textSize="50sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:text="Combo 5"
+        android:gravity="center"
+        android:id="@+id/tv_combo2"
+        android:visibility="invisible"
+        android:textSize="50sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+
+    </RelativeLayout>
+

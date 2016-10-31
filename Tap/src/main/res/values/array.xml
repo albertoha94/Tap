@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--MENUGAME-->
+
+     <string-array name="difficulty_s">
+
+        <item  >Easy</item>
+        <item>Medium</item>
+        <item  >Hard</item>
+        <item>Expert</item>
+
+    </string-array>
+
+    <string-array name="mode_s">
+
+        <item>1 minute</item>
+        <item >25 taps</item>
+
+    </string-array>
+
+    <integer-array name="pph">
+
+        <item >5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+
+    </integer-array>
+
+    <!--STATISTICS-->
+
+    <string-array name="stat_names">
+
+    <item name="general"              >General</item>
+    <item name="total_games"      >Total games</item>
+    <item name="perfect_games"  >Perfect games</item>
+    <item name="longest_streak">Longest streak</item>
+    <item name="game_modes"      >Game modes</item>
+    <item name="min"               >1 minute</item>
+    <item name="taps"               >25 taps</item>
+    <item name="cmin">1 minute(Single Color)</item>
+    <item name="ctap" >25 taps(Single Color)</item>
+    <item name="blocks"                >Blocks</item>
+    <item name="total"                  >Total</item>
+    <item name="auburn"                >Auburn</item>
+    <item name="air_force_blue">Air force blue</item>
+    <item name="amber"                  >Amber</item>
+    <item name="amethyst"            >Amethyst</item>
+    <item name="ao"                        >Ao</item>
+    <item name="turquoise"          >Turquoise</item>
+    <item name="bronze"                >Bronze</item>
+    <item name="cadet_grey"        >Cadet grey</item>
+    <item name="cadnium_green"  >Cadnium green</item>
+    <item name="awesome"              >Awesome</item>
+
+    </string-array>
+
+    <!--ACHIEVEMENT-->
+
+    <string-array name="achievement_name">
+
+        <item>Lets get started</item>
+        <item>Getting better</item>
+        <item>Casual tapper</item>
+        <item>Pro tapper</item>
+
+        <item>Pale red</item>
+        <item>Light red</item>
+        <item>Auburn red</item>
+
+        <item>Pale blue</item>
+        <item>Light blue</item>
+        <item>Air force blue</item>
+
+        <item>Pale orange</item>
+        <item>Light orange</item>
+        <item>Amber</item>
+
+        <item>Pale violet</item>
+        <item>Light violet</item>
+        <item>Amethyst</item>
+
+        <item>Pale green</item>
+        <item>Light green</item>
+        <item>Ao</item>
+
+        <item>Pale cyan</item>
+        <item>Light cyan</item>
+        <item>Turquoise</item>
+
+        <item>Pale bronze</item>
+        <item>Light bronze</item>
+        <item>Bronze</item>
+
+        <item>Pale grey</item>
+        <item>Light grey</item>
+        <item>Cadet grey</item>
+
+        <item>Pale cadnium green</item>
+        <item>Light cadnium green</item>
+        <item>Cadnium green</item>
+
+        <item>Pale pink</item>
+        <item>Light pink</item>
+        <item>Awesome</item>
+
+    </string-array>
+
+    <string-array name="achievement_desc">
+
+        <item >Complete 100 games</item>
+        <item >Complete 500 games</item>
+        <item>Complete 1000 games</item>
+        <item>Complete 2000 games</item>
+        <item >Tap a red block 100 times</item>
+        <item >Tap a red block 500 times</item>
+        <item>Tap a red block 1000 times</item>
+        <item >Tap a blue block 100 times</item>
+        <item >Tap a blue block 500 times</item>
+        <item>Tap a blue block 1000 times</item>
+        <item >Tap an orange block 100 times</item>
+        <item >Tap an orange block 500 times</item>
+        <item>Tap an orange block 1000 times</item>
+        <item >Tap a violet block 100 times</item>
+        <item >Tap a violet block 500 times</item>
+        <item>Tap a violet block 1000 times</item>
+        <item >Tap a green block 100 times</item>
+        <item >Tap a green block 500 times</item>
+        <item>Tap a green block 1000 times</item>
+        <item >Tap a cyan block 100 times</item>
+        <item >Tap a cyan block 500 times</item>
+        <item>Tap a cyan block 1000 times</item>
+        <item >Tap a bronze block 100 times</item>
+        <item >Tap a bronze block 500 times</item>
+        <item>Tap a bronze block 1000 times</item>
+        <item >Tap a grey block 100 times</item>
+        <item >Tap a grey block 500 times</item>
+        <item>Tap a grey block 1000 times</item>
+        <item >Tap a cadnium green block 100 times</item>
+        <item >Tap a cadnium green block 500 times</item>
+        <item>Tap a cadnium green block 1000 times</item>
+        <item >Tap a pink block 100 times</item>
+        <item >Tap a pink block 500 times</item>
+        <item>Tap a pink block 1000 times</item>
+
+    </string-array>
+
+    <string-array name="GD_ACHIEVEMENT_STATE">
+
+        <item>GD_ACHIEVEMENT_1</item>
+        <item>GD_ACHIEVEMENT_2</item>
+        <item>GD_ACHIEVEMENT_3</item>
+        <item>GD_ACHIEVEMENT_4</item>
+        <item>GD_ACHIEVEMENT_5</item>
+        <item>GD_ACHIEVEMENT_6</item>
+        <item>GD_ACHIEVEMENT_7</item>
+        <item>GD_ACHIEVEMENT_8</item>
+        <item>GD_ACHIEVEMENT_9</item>
+        <item>GD_ACHIEVEMENT_10</item>
+        <item>GD_ACHIEVEMENT_11</item>
+        <item>GD_ACHIEVEMENT_12</item>
+        <item>GD_ACHIEVEMENT_13</item>
+        <item>GD_ACHIEVEMENT_14</item>
+        <item>GD_ACHIEVEMENT_15</item>
+        <item>GD_ACHIEVEMENT_16</item>
+        <item>GD_ACHIEVEMENT_17</item>
+        <item>GD_ACHIEVEMENT_18</item>
+        <item>GD_ACHIEVEMENT_19</item>
+        <item>GD_ACHIEVEMENT_20</item>
+        <item>GD_ACHIEVEMENT_21</item>
+        <item>GD_ACHIEVEMENT_22</item>
+        <item>GD_ACHIEVEMENT_23</item>
+        <item>GD_ACHIEVEMENT_24</item>
+        <item>GD_ACHIEVEMENT_25</item>
+        <item>GD_ACHIEVEMENT_26</item>
+        <item>GD_ACHIEVEMENT_27</item>
+        <item>GD_ACHIEVEMENT_28</item>
+        <item>GD_ACHIEVEMENT_29</item>
+        <item>GD_ACHIEVEMENT_30</item>
+        <item>GD_ACHIEVEMENT_31</item>
+        <item>GD_ACHIEVEMENT_32</item>
+        <item>GD_ACHIEVEMENT_33</item>
+        <item>GD_ACHIEVEMENT_34</item>
+
+    </string-array>
+
+    <integer-array name="achievement_values_max">
+
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+
+    </integer-array>
+
+    <!--LEADERBOARS-->
+
+    <string-array name="leaders_titles">
+
+        <item>1 minute</item>
+        <item >25 Taps</item>
+        <item>1 minute(Single Color)</item>
+        <item >25 taps(Single Color)</item>
+
+    </string-array>
+
+</resources>

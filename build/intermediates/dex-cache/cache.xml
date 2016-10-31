@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\support-annotations-23.4.0_2bcfcdd7cab338cb04c05da2ff97b69365445d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_d0cf3709ac5b3e92583df111f3f44efec0e04465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.9.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="990cba7dbe7fc91e1082a9a8ea6d663c0741a0f1">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.digits.sdk.android-digits-1.9.3_1cafee0e5de2fe29fd718960c36bf8b45a4862eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.10_d2fd9d528f1d08f4b74f51937abfbcb7175a51b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-multidex-1.0.1_d6fb30ba157aa1660a4f2f73547711138d4ace6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5574956a6ccf42009ff7b4771771351e654e1aab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7066f2c5d8b2e4d2232d0713436f80e929afd2fd">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-1.0.2_7a6503098355f24361c19d6b33cbcc78ac8b2541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\bolts-applinks-1.3.0_a7a19075a78b47d5b009f1c1aa8acfe64d3cf514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="56c978fe05228a996c839624f9a48fe235c9612c">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.twitter.sdk.android-twitter-1.12.0_98e663c7cca4b7b24a64dc6baa576edf8859042c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\retrofit-1.8.0_3fa7718bbb027f07de6c74ec7a88c0c94efd9521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_4fc77fdf2e870e6b5d75fb739f31b21bfe891813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_16035c5790fe3f84cb00f73707b3dc956958d7b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ca05b62d108406bc08eb0ff9e0d619203724eff">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-1.9.0_2915e2ff295bda7bab3d0cd7a9733432a3c9ada1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\incremental-classes\chocolate\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb4175d67d42e88c52295add6354d8a054bfd61d">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\instant-run-bootstrap_fce5a514cc85a62e38f931b3d866cd524f410851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_944812bc06a7dcd4a942c035bea787a1dfe88221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\gson-2.3_a07b827d65b130c52e97944c7249ecf148636daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\bolts-tasks-1.3.0_a05e8d488921b21d5c41469fde169646c5d4adf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\twitter-text-1.13.0_720fd8d97f7a81dd84d02360772bae8dfba3b216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\picasso-2.5.2_4e3907023e1ac87aaf8d46ee97af538d6e9cd2a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\incremental-runtime-classes\chocolate\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50bc9df020bded0b2a1bef795a05fa1edf4df6aa">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\instant-run_cfcd85280a5bdd3c137ecc3fb9342f8d61878cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\internal_impl-23.1.1_81f6730dc3df220ad569f3541e662c2c6fe8d1b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.6.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b272ca6a1525f5c6215224eb3cfeb32eb5270667">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-1.6.3_27158fc80b4e49bad6113176c937c59180b76bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\internal_impl-23.4.0_a72a6cc82273b4feb123b2582cf320139469f4ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-support-v13-23.1.1_dafe7cb6f43d9d016f4b69f413265c691ad2a579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Albertoha94\Projects\StudioProjects\Tap\Tap\build\intermediates\transforms\dex\chocolate\debug\folders\1000\10\com.android.support-design-23.1.1_b6f397390a90df560f91a00dca593992c0492047\classes.dex" />
+    </item>
+
+</items>

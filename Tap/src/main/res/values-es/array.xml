@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *19/Mar/16:             -File created.
+-->
+<resources>
+
+    <!--MENUGAME-->
+        <string-array name="difficulty_s">
+        <item  >Fácil</item>
+        <item>Medio</item>
+        <item  >Difícil</item>
+        <item>Experto</item>
+    </string-array>
+
+        <string-array name="mode_s">
+        <item>1 minuto</item>
+        <item >25 toques</item>
+    </string-array>
+
+        <integer-array name="pph">
+        <item >5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </integer-array>
+
+    <!--STATISTICS-->
+
+        <string-array name="stat_names">
+    <item name="general">General</item>
+    <item name="total_games">Juegos totales</item>
+    <item name="perfect_games">Juegos perfectos</item>
+    <item name="longest_streak">Cadena mas larga</item>
+    <item name="game_modes">Modos de juego</item>
+    <item name="min">1 minuto</item>
+    <item name="taps">25 toques</item>
+    <item name="cmin">1 minuto(Un color)</item>
+    <item name="ctap" >25 toques(Un color)</item>
+    <item name="blocks">Bloques</item>
+    <item name="total">Total</item>
+    <item name="auburn">Auburn</item>
+    <item name="air_force_blue">Fuerza aérea azul</item>
+    <item name="amber">Ambar</item>
+    <item name="amethyst">Ametisto</item>
+    <item name="ao">Ao</item>
+    <item name="turquoise">Turquesa</item>
+    <item name="bronze">Bronce</item>
+    <item name="cadet_grey">Gris cadete</item>
+    <item name="cadnium_green">Verde cadmio</item>
+    <item name="awesome">Increible</item>
+    </string-array>
+
+    <!--ACHIEVEMENT-->
+
+        <string-array name="achievement_name">
+
+        <item>Comencemos</item>
+        <item>Vas mejorando</item>
+        <item>Toque Casual</item>
+        <item>Toque maestro</item>
+
+        <item>Rojo palido</item>
+        <item>Rojo claro</item>
+        <item>Auburn</item>
+
+        <item>Azul palido</item>
+        <item>Azul claro</item>
+        <item>Fuerza aérea azul</item>
+
+        <item>Naranja palido</item>
+        <item>Naranja claro</item>
+        <item>Ambar</item>
+
+        <item>Violeta Palido</item>
+        <item>Violeta claro</item>
+        <item>Ametisto</item>
+
+        <item>Verde palido</item>
+        <item>Verde claro</item>
+        <item>Ao</item>
+
+        <item>Cyan palido</item>
+        <item>Cyan claro</item>
+        <item>Turquesa</item>
+
+        <item>Bronce palido</item>
+        <item>Bronce claro</item>
+        <item>Bronce</item>
+
+        <item>Gris palido</item>
+        <item>Gris claro</item>
+        <item>Gris cadete</item>
+
+        <item>Verde cadmio palido</item>
+        <item>Verde cadmio claro</item>
+        <item>Verde cadmio</item>
+
+        <item>Rosa palido</item>
+        <item>Rosa claro</item>
+        <item>Increible</item>
+
+    </string-array>
+
+        <string-array name="achievement_desc">
+        <item >Completa 100 juegos</item>
+        <item >Completa 500 juegos</item>
+        <item>Completa 1000 juegos</item>
+        <item>Completa 2000 juegos</item>
+        <item >Toca un bloque rojo 100 veces</item>
+        <item >Toca un bloque rojo 500 veces</item>
+        <item>Toca un bloque rojo 1000 veces</item>
+        <item >Toca un bloque azul 100 veces</item>
+        <item >Toca un bloque azul 500 veces</item>
+        <item>Toca un bloque azul 1000 veces</item>
+        <item >Toca un bloque naranja 100 veces</item>
+        <item >Toca un bloque naranja 500 veces</item>
+        <item>Toca un bloque naranja 1000 veces</item>
+        <item >Toca un bloque violeta 100 veces</item>
+        <item >Toca un bloque violeta 500 veces</item>
+        <item>Toca un bloque violeta 1000 veces</item>
+        <item >Toca un bloque verde 100 veces</item>
+        <item >Toca un bloque verde 500 veces</item>
+        <item>Toca un bloque verde 1000 veces</item>
+        <item >Toca un bloque cyan 100 veces</item>
+        <item >Toca un bloque cyan 500 veces</item>
+        <item>Toca un bloque cyan 1000 veces</item>
+        <item >Toca un bloque bronce 100 veces</item>
+        <item >Toca un bloque bronce 500 veces</item>
+        <item>Toca un bloque bronce 1000 veces</item>
+        <item >Toca un bloque gris 100 veces</item>
+        <item >Toca un bloque gris 500 veces</item>
+        <item>Toca un bloque gris 1000 veces</item>
+        <item >Toca un bloque verde cadmio 100 veces</item>
+        <item >Toca un bloque verde cadmio 500 veces</item>
+        <item>Toca un bloque verde cadmio 1000 veces</item>
+        <item >Toca un bloque rosa 100 veces</item>
+        <item >Toca un bloque rosa 500 veces</item>
+        <item>Toca un bloque rosa 1000 veces</item>
+    </string-array>
+
+        <string-array name="GD_ACHIEVEMENT_STATE">
+        <item>GD_ACHIEVEMENT_1</item>
+        <item>GD_ACHIEVEMENT_2</item>
+        <item>GD_ACHIEVEMENT_3</item>
+        <item>GD_ACHIEVEMENT_4</item>
+        <item>GD_ACHIEVEMENT_5</item>
+        <item>GD_ACHIEVEMENT_6</item>
+        <item>GD_ACHIEVEMENT_7</item>
+        <item>GD_ACHIEVEMENT_8</item>
+        <item>GD_ACHIEVEMENT_9</item>
+        <item>GD_ACHIEVEMENT_10</item>
+        <item>GD_ACHIEVEMENT_11</item>
+        <item>GD_ACHIEVEMENT_12</item>
+        <item>GD_ACHIEVEMENT_13</item>
+        <item>GD_ACHIEVEMENT_14</item>
+        <item>GD_ACHIEVEMENT_15</item>
+        <item>GD_ACHIEVEMENT_16</item>
+        <item>GD_ACHIEVEMENT_17</item>
+        <item>GD_ACHIEVEMENT_18</item>
+        <item>GD_ACHIEVEMENT_19</item>
+        <item>GD_ACHIEVEMENT_20</item>
+        <item>GD_ACHIEVEMENT_21</item>
+        <item>GD_ACHIEVEMENT_22</item>
+        <item>GD_ACHIEVEMENT_23</item>
+        <item>GD_ACHIEVEMENT_24</item>
+        <item>GD_ACHIEVEMENT_25</item>
+        <item>GD_ACHIEVEMENT_26</item>
+        <item>GD_ACHIEVEMENT_27</item>
+        <item>GD_ACHIEVEMENT_28</item>
+        <item>GD_ACHIEVEMENT_29</item>
+        <item>GD_ACHIEVEMENT_30</item>
+        <item>GD_ACHIEVEMENT_31</item>
+        <item>GD_ACHIEVEMENT_32</item>
+        <item>GD_ACHIEVEMENT_33</item>
+        <item>GD_ACHIEVEMENT_34</item>
+    </string-array>
+
+        <integer-array name="achievement_values_max">
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+    </integer-array>
+
+    <!--LEADERBOARS-->
+
+        <string-array name="leaders_titles">
+        <item>1 minuto</item>
+        <item >25 toques</item>
+        <item>1 minuto(Un color)</item>
+        <item >25 toques(Un color)</item>
+    </string-array>
+
+</resources>

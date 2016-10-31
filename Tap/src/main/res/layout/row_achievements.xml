@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--@author:  Albertoha94
+    @version: 2
+    Change History:
+    *15/Mar/16:             -File completed.
+    *19/Mar/16:             -Replaced a textview with an imageview so it can display the achievement
+                            icon.
+-->
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/tv_achieve_padding"
+    android:paddingBottom="@dimen/tv_achieve_padding"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:text="V"
+            android:id="@+id/iv_achievestat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/tv_achieve_margin" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Large Text"
+                android:id="@+id/tv_achievename"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/tv_achieve_textsize"
+                android:paddingBottom="@dimen/tv_achieve_padding"
+                android:layout_marginLeft="@dimen/tv_achieve_marginleft" />
+
+            <TextView
+                android:text="Large Text"
+                android:id="@+id/tv_achievedesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/tv_achieve_textsize_desc"
+                android:layout_marginLeft="@dimen/tv_achieve_marginleft" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/pb_achieve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_marginLeft="@dimen/tv_achieve_marginleft"
+        android:layout_marginRight="@dimen/tv_achieve_marginleft" />
+
+</LinearLayout>

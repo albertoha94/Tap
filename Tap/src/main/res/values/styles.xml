@@ -1,0 +1,107 @@
+
+<!--@author:  Albertoha94
+    @version: 1
+    Change History:
+    *15/Mar/16:             Added the style ButtonColor for the buttons used in the color dialog.
+    *16/Mar/16:             -Removed the ButtonColor style.
+                            -Added 2 new styles for the dialogs.
+-->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="apptheme" parent="Base.Theme.AppCompat">
+
+        <item name="colorPrimary">@color/black_p</item>
+        <item name="colorPrimaryDark">@color/black_s</item>
+        <item name="android:windowBackground">@color/gray_b</item>
+
+        <!--CUSTOM STYLES-->
+
+        <item name="TextGame">@style/apptheme.TextGame</item>
+        <item name="TextMenu">@style/apptheme.TextMenu</item>
+        <item name="TextTitle"  >@style/apptheme.TextTitle</item>
+        <item name="ButtonMenu">@style/apptheme.ButtonMenu</item>
+        <item name="ButtonGame">@style/apptheme.ButtonGame</item>
+        <item name="ButtonIcon">@style/apptheme.ButtonIcon</item>
+
+    </style>
+
+    <style name="apptheme.TextMenu">
+
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:layout_width" >wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize"    >@dimen/t_menu</item>
+        <item name="android:textColor"    >@color/white</item>
+        <item name="android:shadowColor"  >@color/black</item>
+
+    </style>
+
+    <style name="apptheme.TextTitle" parent="apptheme.TextMenu">
+
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize"   >@dimen/t_title</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_margin">@dimen/t_margin</item>
+        <item name="android:layout_centerHorizontal" >true</item>
+
+    </style>
+
+    <style name="apptheme.TextGame" parent="apptheme.TextMenu">
+
+        <item name="android:textSize">@dimen/t_game</item>
+
+    </style>
+
+    <style name="apptheme.ButtonMenu" parent="apptheme.TextMenu">
+
+        <item name="android:layout_width"   >match_parent</item>
+        <item name="android:layout_height" >wrap_content</item>
+        <item name="android:background">@drawable/buttonstandard</item>
+        <item name="android:padding"      >@dimen/b_menu_padding</item>
+        <item name="android:layout_marginTop"   >@dimen/b_menu_margin_up_down</item>
+        <item name="android:layout_marginBottom">@dimen/b_menu_margin_up_down</item>
+        <item name="android:layout_marginLeft"   >@dimen/b_menu_margin_left_r</item>
+        <item name="android:layout_marginRight"  >@dimen/b_menu_margin_left_r</item>
+
+    </style>
+
+    <style name="apptheme.ButtonGame" parent="apptheme.TextGame">
+
+        <item name="android:layout_width" >@dimen/b_game_size_dummy</item>
+        <item name="android:layout_height">@dimen/b_game_size_dummy</item>
+        <item name="android:layout_margin"    >@dimen/b_game_margin</item>
+        <item name="android:background"   >@drawable/buttonstandard</item>
+
+    </style>
+
+    <style name="apptheme.ButtonIcon" parent="apptheme.TextGame">
+
+        <item name="android:layout_width"    >@dimen/b_icon_size</item>
+        <item name="android:layout_height"   >@dimen/b_icon_size</item>
+        <item name="android:background">@drawable/buttonstandard</item>
+        <item name="android:padding"      >@dimen/b_icon_padding</item>
+        <item name="android:layout_margin" >@dimen/b_icon_margin</item>
+
+    </style>
+
+    <!--Dialogs styles-->
+
+        <style name="apptheme.Dialog" parent="Theme.AppCompat.Dialog">
+
+            <item name="android:textViewStyle">@style/apptheme.Dialog.TextView</item>
+            <item name="android:layout_gravity">center_horizontal</item>
+            <item name="android:textSize">15sp</item>
+            <!--<item name="android:typeface">gamefont.otf</item>-->
+            <!--<item name="android:buttonStyle"></item>-->
+            <item name="colorAccent">@color/white</item>
+
+        </style>
+
+        <style name="apptheme.Dialog.TextView" parent="android:Widget.TextView">
+            <item name="android:fontFamily">gamefont</item>
+        </style>
+
+</resources>
